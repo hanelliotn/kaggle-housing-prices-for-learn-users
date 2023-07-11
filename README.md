@@ -4,10 +4,10 @@
 - My Submission URL (TBA)
 
 ## Development Status
-`IN PROGRESS`
+`COMPLETE`
 
 ## Results
-...TBA...
+File: `datasets/submission.csv`
 
 ## Last update
-...TBA...
+*July 11, 2023 2:13:41AM*
