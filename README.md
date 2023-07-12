@@ -9,5 +9,7 @@
 ## Results
 File: `datasets/submission.csv`
 
+Train model: Random Forests
+
 ## Last update
-*July 11, 2023 2:13:41AM*
+*July 12, 2023 23:34:19*
