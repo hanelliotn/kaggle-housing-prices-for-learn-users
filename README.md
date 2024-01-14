@@ -4,7 +4,7 @@
 - My Submission URL (TBA)
 
 ## Development Status
-`COMPLETE`
+`COMPLETED`
 
 ## Results
 File: `datasets/submission.csv`
