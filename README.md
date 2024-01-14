@@ -12,4 +12,4 @@ File: `datasets/submission.csv`
 Train model: Random Forests
 
 ## Last update
-*July 12, 2023 23:34:19*
+*July 12, 2023 23:34:19 UTC*
